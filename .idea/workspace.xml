@@ -1,0 +1,1083 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3d56df5-1faa-4712-a565-b983fb799909" name="Default" comment="" />
+    <ignored path="wp_melano.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1756" column="20" selection-start="53004" selection-end="53004" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="functions.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/js/functions.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="168" column="17" selection-start="4529" selection-end="4538" vertical-scroll-proportion="-8.076923">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="comments.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/comments.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="69" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="244" column="18" selection-start="8453" selection-end="8453" vertical-scroll-proportion="0.74723536">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="interface.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/ct-shortcodes/interface.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="23442" selection-start="23497" selection-end="23497" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1387218050000" expanded="true" signature="53571:103099" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="53601:55014" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55132:103069" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55227:103038" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55290:102986" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55374:102743" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55391:102690" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55488:57674" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="55640:57661" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="57693:57779" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="57817:61813" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="57904:58245" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="58045:58231" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="58273:59607" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="58422:59593" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="59635:60186" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="59776:60172" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="60214:60448" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="60476:60773" placeholder="..." />
+                <marker date="1387218050000" expanded="false" signature="60672:60691" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="60801:61023" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="61051:61230" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="61258:61488" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="61516:61800" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="61827:61911" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="61947:63903" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="62032:62442" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="62165:62428" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="62470:62736" placeholder="..." />
+                <marker date="1387218050000" expanded="false" signature="62635:62654" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="62764:63100" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="63128:63454" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="63270:63440" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="63482:63890" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="63619:63876" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="63929:64016" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="64054:67817" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="64142:65187" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="64288:65173" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="65215:65494" placeholder="..." />
+                <marker date="1387218050000" expanded="false" signature="65393:65412" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="65522:65867" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="65895:66080" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="66108:67425" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="66274:67411" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="67453:67804" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="67843:67928" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="67965:68410" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68051:68397" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68197:68383" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68424:68515" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68558:68812" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68650:68799" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68832:68921" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="68962:70238" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="69052:70225" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="69198:70211" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="70252:70338" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="70401:71774" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="70488:71761" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="70633:71747" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="71793:71884" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="71951:73856" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="72043:72321" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="72349:72640" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="72668:72976" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="73004:73483" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="73166:73469" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="73511:73843" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="73881:73976" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="74039:76227" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="74135:74687" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="74279:74578" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="74715:75092" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="75120:75512" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="75540:75893" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="75921:76214" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="76247:76347" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="76416:77431" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="76517:77418" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="76690:77305" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="77457:77543" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="77606:78829" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="77693:77925" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="77953:78200" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="78228:78816" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="78385:78723" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="78855:78939" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="79000:81995" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="79085:79450" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="79250:79436" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="79478:80836" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="79651:80822" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="80864:81439" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="81029:81425" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="81467:81713" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="81741:81982" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="82036:82120" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="82181:84383" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="82266:82573" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="82601:82997" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="83025:83354" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="83162:83340" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="83382:83662" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="83690:84007" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84035:84370" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84176:84356" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84415:84502" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84566:86631" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84654:84905" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="84933:85179" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="85207:85481" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="85509:85823" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="85851:86178" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="86206:86618" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="86358:86604" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="86657:86745" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="86811:88526" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="86900:87179" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="87207:87489" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="87517:87789" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="87817:88181" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="87987:88167" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="88209:88513" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="88552:88643" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="88711:91974" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="88803:89104" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="89132:90532" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="89309:90446" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="90560:91080" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="90739:91000" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="91108:91635" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="91278:91539" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="91663:91961" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="92000:92084" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="92146:94856" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="92232:92838" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="92370:92824" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="92866:93251" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="93003:93237" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="93279:93902" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="93432:93888" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="93938:94843" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="94079:94829" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="94882:94974" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="95043:97007" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="95137:95621" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="95278:95607" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="95649:96129" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="95805:96115" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="96157:96681" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="96320:96667" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="96709:96994" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97033:97134" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97211:101124" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97313:97796" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97472:97782" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97824:98351" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="97990:98337" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="98379:100795" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="98531:100781" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="100823:101111" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="101144:101228" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="101289:102672" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="101374:101636" placeholder="..." />
+                <marker date="1387218050000" expanded="false" signature="101535:101554" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="101664:102659" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="101811:102645" placeholder="..." />
+                <marker date="1387218050000" expanded="true" signature="102779:102941" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="clients.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/clients.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="99" column="118" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="portfolio-carousel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/portfolio-carousel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="179" column="58" selection-start="6259" selection-end="6259" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="posts-carousel.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/posts-carousel.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="243" column="118" selection-start="8493" selection-end="8493" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ct-custom-styles.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/includes/ct-custom-styles.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="876" column="52" selection-start="49683" selection-end="49683" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="189" column="30" selection-start="7012" selection-end="7012" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/includes/class-wc-query.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/functions.php" />
+        <option value="$PROJECT_DIR$/wp-content/plugins/woocommerce/woocommerce.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/woocommerce/share.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/category.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/css/responsive.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/ct-supersearch.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/page.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/includes/ct-header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/team.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/header.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/js/functions.js" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/posts-carousel.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/includes/ct-custom-styles.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/style.css" />
+        <option value="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/footer.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="22" />
+    <option name="width" value="1440" />
+    <option name="height" value="841" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="uploads" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shortcodes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp_melano_3.8" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coo-theme" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="page-builder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/woocommerce" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/sql" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3d56df5-1faa-4712-a565-b983fb799909" name="Default" comment="" />
+      <created>1386563651669</created>
+      <updated>1386563651669</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="22" width="1440" height="841" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31635582" sideWeight="0.67083335" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32916668" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="191" column="0" selection-start="5779" selection-end="5779" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/ct-functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="36" selection-start="3101" selection-end="3108" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="23" selection-start="276" selection-end="281" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/team.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="43" selection-start="1967" selection-end="1967" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/includes/ct-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="435" column="45" selection-start="16152" selection-end="16156" vertical-scroll-proportion="-3.9607842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/search.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="3.9607842">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/comments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="69" selection-start="1576" selection-end="1576" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/ct-shortcodes/interface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="23442" selection-start="23497" selection-end="23497" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1387218050000" expanded="true" signature="53571:103099" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="53601:55014" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55132:103069" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55227:103038" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55290:102986" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55374:102743" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55391:102690" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55488:57674" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="55640:57661" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="57693:57779" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="57817:61813" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="57904:58245" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="58045:58231" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="58273:59607" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="58422:59593" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="59635:60186" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="59776:60172" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="60214:60448" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="60476:60773" placeholder="..." />
+            <marker date="1387218050000" expanded="false" signature="60672:60691" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="60801:61023" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="61051:61230" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="61258:61488" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="61516:61800" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="61827:61911" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="61947:63903" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="62032:62442" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="62165:62428" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="62470:62736" placeholder="..." />
+            <marker date="1387218050000" expanded="false" signature="62635:62654" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="62764:63100" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="63128:63454" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="63270:63440" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="63482:63890" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="63619:63876" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="63929:64016" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="64054:67817" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="64142:65187" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="64288:65173" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="65215:65494" placeholder="..." />
+            <marker date="1387218050000" expanded="false" signature="65393:65412" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="65522:65867" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="65895:66080" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="66108:67425" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="66274:67411" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="67453:67804" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="67843:67928" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="67965:68410" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68051:68397" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68197:68383" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68424:68515" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68558:68812" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68650:68799" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68832:68921" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="68962:70238" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="69052:70225" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="69198:70211" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="70252:70338" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="70401:71774" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="70488:71761" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="70633:71747" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="71793:71884" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="71951:73856" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="72043:72321" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="72349:72640" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="72668:72976" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="73004:73483" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="73166:73469" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="73511:73843" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="73881:73976" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="74039:76227" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="74135:74687" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="74279:74578" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="74715:75092" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="75120:75512" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="75540:75893" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="75921:76214" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="76247:76347" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="76416:77431" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="76517:77418" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="76690:77305" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="77457:77543" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="77606:78829" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="77693:77925" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="77953:78200" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="78228:78816" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="78385:78723" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="78855:78939" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="79000:81995" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="79085:79450" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="79250:79436" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="79478:80836" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="79651:80822" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="80864:81439" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="81029:81425" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="81467:81713" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="81741:81982" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="82036:82120" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="82181:84383" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="82266:82573" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="82601:82997" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="83025:83354" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="83162:83340" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="83382:83662" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="83690:84007" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84035:84370" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84176:84356" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84415:84502" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84566:86631" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84654:84905" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="84933:85179" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="85207:85481" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="85509:85823" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="85851:86178" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="86206:86618" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="86358:86604" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="86657:86745" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="86811:88526" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="86900:87179" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="87207:87489" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="87517:87789" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="87817:88181" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="87987:88167" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="88209:88513" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="88552:88643" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="88711:91974" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="88803:89104" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="89132:90532" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="89309:90446" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="90560:91080" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="90739:91000" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="91108:91635" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="91278:91539" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="91663:91961" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="92000:92084" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="92146:94856" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="92232:92838" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="92370:92824" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="92866:93251" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="93003:93237" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="93279:93902" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="93432:93888" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="93938:94843" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="94079:94829" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="94882:94974" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="95043:97007" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="95137:95621" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="95278:95607" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="95649:96129" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="95805:96115" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="96157:96681" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="96320:96667" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="96709:96994" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97033:97134" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97211:101124" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97313:97796" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97472:97782" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97824:98351" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="97990:98337" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="98379:100795" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="98531:100781" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="100823:101111" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="101144:101228" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="101289:102672" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="101374:101636" placeholder="..." />
+            <marker date="1387218050000" expanded="false" signature="101535:101554" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="101664:102659" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="101811:102645" placeholder="..." />
+            <marker date="1387218050000" expanded="true" signature="102779:102941" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/clients.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="118" selection-start="3107" selection-end="3107" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/portfolio-carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="179" column="58" selection-start="6259" selection-end="6259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/coo-theme/page-builder/builder/shortcodes/posts-carousel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="243" column="118" selection-start="8493" selection-end="8493" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/includes/ct-custom-styles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="876" column="52" selection-start="49683" selection-end="49683" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="189" column="30" selection-start="7012" selection-end="7012" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/js/functions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="168" column="17" selection-start="4529" selection-end="4538" vertical-scroll-proportion="-8.076923">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1756" column="20" selection-start="53004" selection-end="53004" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/wp_melano_3.8/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="244" column="18" selection-start="8453" selection-end="8453" vertical-scroll-proportion="0.74723536">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

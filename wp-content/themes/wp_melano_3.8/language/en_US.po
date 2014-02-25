@@ -1,0 +1,1160 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:1
+msgid " Comments"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:27
+#: coo/single-jobs.php:42
+#: coo/single-galleries.php:133
+#: coo/single.php:229
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-woocommerce.php:1
+msgid "% items"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/posts-carousel.php:1
+msgid "%1$s - %2$s"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:27
+#: coo/includes/ct-theme-functions.php:1
+#: coo/single-jobs.php:42
+#: coo/single-galleries.php:133
+#: coo/single.php:229
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-woocommerce.php:1
+msgid "0 items"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:154
+#: coo/includes/ct-header.php:1
+msgid "0 items in the shopping bag"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:27
+#: coo/includes/ct-theme-functions.php:1
+#: coo/single-jobs.php:42
+#: coo/single-galleries.php:133
+#: coo/single.php:229
+msgid "1 Comment"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-woocommerce.php:1
+msgid "1 item"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/thankyou.php:41
+#: coo/woocommerce/checkout/thankyou.php:87
+msgid "1. Sign In"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/thankyou.php:42
+#: coo/woocommerce/checkout/thankyou.php:88
+msgid "2. Billing & Shipping"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/thankyou.php:43
+#: coo/woocommerce/checkout/thankyou.php:89
+msgid "3. Review & Payment"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/thankyou.php:44
+#: coo/woocommerce/checkout/thankyou.php:90
+msgid "4. Confirmation"
+msgstr ""
+
+#. Text in echo
+#: coo/404.php:11
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: coo/search.php:32
+msgid "<h1>%1$s result for <span>%2$s</span></h1>"
+msgstr ""
+
+#. Text in function
+#: coo/search.php:34
+msgid "<h1>%1$s results for <span>%2$s</span></h1>"
+msgstr ""
+
+#. Text in function
+#: coo/single-team.php:115
+#: coo/single-jobs.php:34
+#: coo/single-galleries.php:125
+#: coo/single.php:217
+msgid "<i class=\"ss-navigateleft\"></i> <span class=\"nav-text\">%title</span>"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:37
+#: coo/comments.php:46
+msgid "<i class=\"ss-navigateleft\"></i> Previous"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-pagination.php:1
+msgid "<i class='ss-navigateleft'></i> Previous"
+msgstr ""
+
+#. Text in function
+#: coo/single-team.php:116
+#: coo/single-jobs.php:35
+#: coo/single-galleries.php:126
+#: coo/single.php:218
+msgid "<span class=\"nav-text\">%title</span><i class=\"ss-navigateright\"></i>"
+msgstr ""
+
+#. Text in echo
+#: coo/single.php:276
+msgid "About"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:101
+msgid "Actions"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product/add-to-cart/simple.php:44
+#: coo/woocommerce/loop/add-to-cart.php:22
+#: coo/woocommerce/single-product/add-to-cart/variable.php:83
+msgid "Add to shopping bag"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:298
+msgid "Additional Information"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/myaccount/my-address.php:1
+#: coo/woocommerce/myaccount/my-account.php:29
+msgid "Address Book"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-portfolio.php:1
+#: coo/woocommerce/loop/result-count.php:52
+msgid "All"
+msgstr ""
+
+#. Text in echo
+#: coo/footer.php:257
+msgid "All posts loaded"
+msgstr ""
+
+#. Text in echo
+#: coo/search.php:94
+#: coo/search.php:149
+msgid "Alternatively, you can browse the sitemap below."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-orders.php:51
+msgid "Amount"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-supersearch.php:1
+msgid "Any"
+msgstr ""
+
+#. Text in echo
+#: coo/archive.php:63
+#: coo/archive.php:65
+#: coo/archive.php:67
+msgid "Archive for"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-blog.php:1
+#: coo/coo-theme/shortcodes.php:1
+msgid "Archives"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-comments.php:27
+msgid "Author"
+msgstr ""
+
+#. Text in echo
+#: coo/archive.php:70
+msgid "Author archive for"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/order/order-details.php:30
+#: coo/woocommerce/myaccount/form-edit-address.php:31
+#: coo/woocommerce/wishlist.php:76
+msgid "Back to my account"
+msgstr ""
+
+#. Text in echo
+#: coo/archive.php:72
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/faqs.php:1
+msgid "Browse F.A.Q. Topics"
+msgstr ""
+
+#. Text in function
+#: coo/includes/plugins/love-it-pro/includes/widgets.php:35
+msgid "By %1$s"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/widgets/widget-posts.php:66
+msgid "By %1$s on %2$s"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-comments.php:67
+msgid "By %1$s on %2$s at %3$s"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-post-formats.php:1
+msgid "By <a href=\"%2$s\">%1$s</a>"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-post-formats.php:1
+msgid "By <a href=\"%2$s\">%1$s</a> on %3$s"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-blog.php:1
+#: coo/coo-theme/shortcodes.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-account.php:30
+msgid "Change Password"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-change-password.php:18
+msgid "Change password"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-media.php:1
+msgid "Client: "
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:437
+msgid "Color Customizer"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/single-product/meta.php:24
+#: coo/woocommerce/single-product/meta.php:46
+msgid "Contact Us"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart-empty.php:
+#: coo/woocommerce/checkout/thankyou.php:95
+#: coo/woocommerce/cart/cart.php:214
+msgid "Continue shopping"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-login.php:68
+msgid "Create an account"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Day"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Days"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:279
+#: coo/woocommerce/cart/cart.php:39
+msgid "Description"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-orders.php:53
+msgid "Details"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:78
+msgid "Discount:"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-comments.php:39
+#: coo/includes/ct-comments.php:67
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/myaccount/my-address.php:68
+msgid "Edit address"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:360
+#: coo/coo-theme/ct-woocommerce.php:372
+msgid "Email customer care"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:188
+msgid "Enter promotion code"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:363
+#: coo/coo-theme/ct-woocommerce.php:414
+msgid "F.A.Q.'s"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-portfolio.php:1
+msgid "Filter our work"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-pagination.php:1
+msgid "First Page"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/team-carousel.php:1
+msgid "Follow:"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-menus.php:1
+msgid "Footer Menu"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product/product-image.php:19
+#: coo/woocommerce/content-product.php:170
+msgid "Free"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:162
+#: coo/includes/ct-header.php:1
+msgid "Go to the shop"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Go to your wishlist"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Hour"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Hours"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/wishlist.php:148
+msgid "In Stock"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-change-password.php:27
+msgid "It is not possible to change the password for the demo account."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/order/order-details.php:41
+#: coo/woocommerce/wishlist.php:96
+#: coo/woocommerce/cart/cart.php:38
+msgid "Item"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/loop/add-to-cart.php:22
+msgid "Item added to bag"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Language"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-pagination.php:1
+msgid "Last Page"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/jobs.php:1
+msgid "Learn more"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/single-product/meta.php:25
+#: coo/woocommerce/single-product/meta.php:60
+msgid "Leave Feedback"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Leave a reply"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Leave a reply to %s"
+msgstr ""
+
+#. Text in echo
+#: coo/footer.php:256
+msgid "Loading"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-comments.php:42
+msgid "Log in to reply."
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of this account\">Log out?</a>"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/form-checkout.php:47
+#: coo/includes/ct-header.php:1
+msgid "Login"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/form-checkout.php:40
+msgid "Login here"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-menus.php:1
+msgid "Main Menu"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Min"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Mins"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-menus.php:1
+msgid "Mobile Menu"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Month"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Months"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/testimonial-carousel.php:1
+#: coo/coo-theme/page-builder/builder/shortcodes/testimonial.php:1
+msgid "More"
+msgstr ""
+
+#. Text in function
+#: coo/includes/plugins/love-it-pro/includes/widgets.php:1
+msgid "Most Loved Items"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/order/order-details.php:28
+#: coo/woocommerce/myaccount/form-edit-address.php:29
+#: coo/woocommerce/myaccount/my-account.php:20
+#: coo/woocommerce/wishlist.php:74
+#: coo/includes/ct-header.php:1
+msgid "My Account"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-account.php:24
+msgid "My Downloads"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-account.php:22
+msgid "My Orders"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-account.php:27
+msgid "My Wishlist"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/single-product/meta.php:24
+msgid "Need Help?"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product/product-image.php:19
+#: coo/woocommerce/content-product.php:170
+msgid "New"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/loop/pagination.php:18
+msgid "Next"
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:37
+#: coo/comments.php:46
+msgid "Next <i class=\"ss-navigateright\"></i>"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-pagination.php:1
+msgid "Next <i class='ss-navigateright'></i>"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/tabs.php:1
+msgid "Next slide"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "No results"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "No search results could be found, please try another query."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-login.php:64
+msgid "Not registered? No problem"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product/product-image.php:19
+#: coo/woocommerce/content-product.php:170
+#: coo/woocommerce/wishlist.php:148
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product-reviews.php:181
+msgid "Overall Rating"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Page"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:1
+msgid "Page %s"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/shortcodes.php:1
+msgid "Pages"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:260
+msgid "Payment Method"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Please assign a menu to the Main Menu in Appearance > Menus"
+msgstr ""
+
+#. Text in echo
+#: coo/header.php:178
+msgid "Please enable JavaScript to view this website."
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-functions.php:1
+msgid "Please provide your Twitter username"
+msgstr ""
+
+#. Text in echo
+#: coo/search.php:90
+#: coo/search.php:145
+msgid "Please use the form below to search again."
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Post comment"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-media.php:1
+msgid "Posted by "
+msgstr ""
+
+#. Text in function
+#: coo/single-jobs.php:39
+#: coo/single.php:226
+msgid "Posted by <a href=\"%2$s\" itemprop=\"author\" class=\"fn\">%1$s</a> on <span class=\"date updated\">%3$s</span> in %4$s"
+msgstr ""
+
+#. Text in function
+#: coo/single-galleries.php:130
+msgid "Posted by <a href=\"%2$s\">%1$s</a> on %3$s in %4$s"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/shortcodes.php:1
+msgid "Posts"
+msgstr ""
+
+#. Text in echo
+#: coo/archive.php:61
+msgid "Posts tagged with"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/loop/pagination.php:18
+msgid "Prev"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/tabs.php:1
+msgid "Previous slide"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:1
+msgid "Price"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:208
+msgid "Proceed to Checkout"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:148
+#: coo/includes/ct-header.php:1
+msgid "Proceed to checkout"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:1
+msgid "Product Category"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:97
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-woocommerce.php:173
+msgid "Product added to wishlist."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/single-product/meta.php:22
+msgid "Product code:"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:207
+msgid "Promo Codes:"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:186
+msgid "Promotional Code"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/order/order-details.php:43
+msgid "Quantity"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:131
+#: coo/woocommerce/checkout/review-order.php:312
+#: coo/includes/ct-header.php:1
+msgid "Quantity:"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-blog.php:1
+msgid "RSS"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-post-formats.php:1
+msgid "Read more"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-login.php:75
+msgid "Register"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/form-login.php:29
+msgid "Registered customers"
+msgstr ""
+
+#. Text in function
+#: coo/single.php:290
+msgid "Related Articles"
+msgstr ""
+
+#. Text in echo
+#: coo/single-portfolio.php:486
+msgid "Related Projects"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:167
+msgid "Remove this product"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-comments.php:42
+msgid "Reply"
+msgstr ""
+
+#. Text in echo
+#: coo/404.php:23
+msgid "Return to the previous page"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/form-checkout.php:40
+msgid "Returning customer?"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:362
+#: coo/coo-theme/ct-woocommerce.php:400
+msgid "Returns & exchange"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:311
+msgid "Reviews"
+msgstr ""
+
+#. Text in echo
+#: coo/search.php:92
+#: coo/search.php:147
+#: coo/includes/ct-blog.php:1
+#: coo/404.php:21
+#: coo/includes/ct-header.php:1
+msgid "Search"
+msgstr ""
+
+#. Text in echo
+#: coo/header.php:184
+msgid "Search for something..."
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Sec"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Secs"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:335
+msgid "Share"
+msgstr ""
+
+#. Text in echo
+#: coo/single-jobs.php:61
+#: coo/single.php:249
+msgid "Share this article:"
+msgstr ""
+
+#. Text in echo
+#: coo/single-galleries.php:151
+msgid "Share this gallery:"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/shortcodes.php:1
+msgid "Share this:"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:361
+#: coo/coo-theme/ct-woocommerce.php:386
+msgid "Shipping information"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:89
+msgid "Shipping:"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/totals.php:22
+msgid "Shopping bag summary"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/loop/result-count.php:33
+msgid "Showing %1$d-%2$d of %3$d products"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/loop/result-count.php:33
+msgid "Showing all %d products"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Sign Out"
+msgstr ""
+
+#. Text in echo
+#: coo/404.php:19
+msgid "Sorry but we couldn't find the page you are looking for. Please check to make sure you've typed the URL correctly. You may also want to search for what you are looking for."
+msgstr ""
+
+#. Text in echo
+#: coo/search.php:87
+#: coo/search.php:142
+#: coo/category.php:118
+#: coo/category.php:168
+#: coo/index.php:102
+#: coo/index.php:148
+#: coo/archive.php:131
+#: coo/archive.php:181
+#: coo/taxonomy-portfolio-category.php:53
+msgid "Sorry, there are no posts to display."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:99
+msgid "Stock Status"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Subscribe"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:42
+msgid "Subtotal"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:71
+msgid "Subtotal:"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-blog.php:1
+msgid "Tags"
+msgstr ""
+
+#. Text in echo
+#: coo/single-jobs.php:56
+#: coo/single-galleries.php:146
+#: coo/single.php:243
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:437
+msgid "Theme Options"
+msgstr ""
+
+#. Text in echo
+#: coo/comments.php:14
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-menus.php:1
+msgid "Top Bar Menu"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/review-order.php:221
+msgid "Total"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:156
+#: coo/includes/ct-header.php:1
+msgid "Unfortunately, your shopping bag is empty."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:98
+#: coo/woocommerce/cart/cart.php:40
+msgid "Unit Price"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:130
+#: coo/includes/ct-header.php:1
+msgid "Unit Price:"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:208
+msgid "Update Shopping Bag"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/loop/result-count.php:51
+msgid "View"
+msgstr ""
+
+#. Text in echo
+#: coo/single-portfolio.php:435
+#: coo/single-portfolio.php:451
+msgid "View Project"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "View all %d results"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/jobs-overview.php:1
+msgid "View all vacancies"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/team-carousel.php:1
+msgid "View profile"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:146
+#: coo/includes/ct-header.php:1
+msgid "View shopping bag"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:100
+#: coo/includes/ct-header.php:1
+msgid "View your shopping cart"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "View your wishlist"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-theme-functions.php:1
+msgid "We are currently in maintenance mode, please check back shortly."
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Week"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Weeks"
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-header.php:1
+msgid "Welcome"
+msgstr ""
+
+#. Text in function
+#: coo/woocommerce/single-product-reviews.php:181
+msgid "Write a review"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Year"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-theme-functions.php:436
+msgid "Years"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart-empty.php:16
+msgid "You currently have no items in your Shopping Bag."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/myaccount/my-orders.php:115
+msgid "You haven't placed any orders yet."
+msgstr ""
+
+#. Text in function
+#: coo/includes/ct-products.php:1
+msgid "You haven't viewed any products yet."
+msgstr ""
+
+#. Text in function
+#: coo/comments.php:65
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/checkout/form-checkout.php:95
+msgid "Your Order"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart-empty.php:14
+msgid "Your Shopping Bag is empty"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/cart/cart.php:31
+msgid "Your selection"
+msgstr ""
+
+#. Text in echo
+#: coo/woocommerce/wishlist.php:174
+#: coo/includes/ct-header.php:1
+msgid "Your wishlist is currently empty."
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-comments.php:72
+msgid "\\t\\t\\t\\t\\t<span class=\"unapproved\">Your trackback is awaiting moderation.</span>\\n"
+msgstr ""
+
+#. Text in echo
+#: coo/includes/ct-comments.php:53
+msgid "\\t\\t\\t\\t\\t<span class='unapproved'>Your comment is awaiting moderation.</span>\\n"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/ct-functions.php:1
+#: coo/coo-theme/widgets/widget-comments.php:66
+#: coo/includes/ct-comments.php:32
+msgid "ago"
+msgstr ""
+
+#. Text in function
+#: coo/footer.php:1
+msgid "footer_copyright_text"
+msgstr ""
+
+#. Text in echo
+#: coo/coo-theme/ct-woocommerce.php:108
+#: coo/includes/ct-header.php:1
+msgid "in the shopping bag"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/jobs-overview.php:1
+msgid "jobs_page"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/custom-post-types/ct-post-type-permalinks.php:115
+#: coo/single-portfolio.php:3
+msgid "portfolio_page"
+msgstr ""
+
+#. Text in function
+#: coo/coo-theme/page-builder/builder/shortcodes/testimonial-carousel.php:1
+#: coo/coo-theme/page-builder/builder/shortcodes/testimonial.php:1
+msgid "testimonial_page"
+msgstr ""
+
