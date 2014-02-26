@@ -17,7 +17,9 @@ class CooPageBuilderShortcode_testimonial_slider extends CooPageBuilderShortcode
             'el_class' => '',
             'alt_background'	=> 'none',
             'el_position' => '',
-            'width' => '1/1'
+            'width' => '1/1',
+            'control_nav'=> 'yes',
+            'control_button_nav'=> 'yes',
         ), $atts));
 
         $output = '';
@@ -45,12 +47,13 @@ class CooPageBuilderShortcode_testimonial_slider extends CooPageBuilderShortcode
         	);
         	    		
         $testimonials = new WP_Query( $testimonials_args );
-        
-        if ($autoplay == "yes") {
-        $items .= '<div class="flexslider testimonials-slider content-slider" data-animation="'.$animation.'" data-autoplay="yes"><ul class="slides">';
-        } else {
-        $items .= '<div class="flexslider testimonials-slider content-slider" data-animation="'.$animation.'" data-autoplay="no"><ul class="slides">';
-        }
+
+
+            if ($autoplay == "yes") {
+            $items .= '<div class="flexslider testimonials-slider content-slider" data-animation="'.$animation.'" data-autoplay="yes"><ul class="slides">';
+            } else {
+            $items .= '<div class="flexslider testimonials-slider content-slider" data-animation="'.$animation.'" data-autoplay="no"><ul class="slides">';
+            }
                   
         // TESTIMONIAL LOOP
         
@@ -74,10 +77,38 @@ class CooPageBuilderShortcode_testimonial_slider extends CooPageBuilderShortcode
         wp_reset_postdata();
         		
         $items .= '</ul></div>';
-       				        
+        $control_nav_value = 'false';
+        $control_button_nav_check = 'false';
+        if( $control_nav == 'yes')
+            $control_nav_value = 'true';
+        if($control_button_nav == 'yes')
+            $control_button_nav_check = 'true';
+
+        $items .= "
+            <script>
+            jQuery(document).ready(function() {
+                jQuery('.content-slider').each(function() {
+                    var slider = jQuery(this),
+                            autoplay = ((slider.attr('data-autoplay') === 'yes') ? true : false);
+
+                    slider.flexslider({
+                        animation: 'fade',
+                        slideshow: autoplay,	//Boolean: Animate slider automatically
+                        slideshowSpeed: 6000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
+                        animationDuration: 1000,			//Integer: Set the speed of animations, in milliseconds
+                        smoothHeight: true,
+                        directionNav: ".$control_button_nav_check.",             //Boolean: Create navigation for previous/next navigation? (true/false)
+                        controlNav: ".$control_nav_value.",               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
+                        start: function() {}
+                    });
+                });
+            });
+        </script>
+        ";
+
         $el_class = $this->getExtraClass($el_class);
         $width = spb_translateColumnWidthToSpan($width);
-        
+
         $sidebar_config = get_post_meta(get_the_ID(), 'ct_sidebar_config', true);
         
         $sidebars = '';
@@ -181,7 +212,21 @@ SPBMap::map( 'testimonial_slider', array(
             "param_name" => "el_class",
             "value" => "",
             "description" => __("If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file.", "coo-page-builder")
-        )
+        ),
+        array(
+            "type" => "dropdown",
+            "heading" => __("Enable Bullet Control Nav", "coo-page-builder"),
+            "param_name" => "control_nav",
+            "value" => array(__('Yes', "coo-page-builder") => "yes", __('No', "coo-page-builder") => "no"),
+            "description" => __("Select if you want the slider enable control nav.", "coo-page-builder")
+        ),
+        array(
+            "type" => "dropdown",
+            "heading" => __("Enable Control Button Nav", "coo-page-builder"),
+            "param_name" => "control_button_nav",
+            "value" => array(__('Yes', "coo-page-builder") => "yes", __('No', "coo-page-builder") => "no"),
+            "description" => __("Select if you want the slider enable control button nav.", "coo-page-builder")
+        ),
     )
 ) );
 

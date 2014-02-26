@@ -13,6 +13,7 @@ class CooPageBuilderShortcode_portfolio extends CooPageBuilderShortcode {
 	        	'show_title'	=> 'yes',
 	        	'show_subtitle'	=> 'yes',
 	        	'show_excerpt'	=> 'no',
+	        	'show_it_love'	=> 'no',
 	        	'hover_show_excerpt' => 'no',
 	        	"excerpt_length" => '20',
 	        	'item_count'	=> '-1',
@@ -49,7 +50,7 @@ class CooPageBuilderShortcode_portfolio extends CooPageBuilderShortcode {
 	        
 	        /* PORTFOLIO ITEMS
 	        ================================================== */	        
-	        $items = ct_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars);
+	        $items = ct_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $show_it_love, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars);
 	        
 	        
 			/* PAGE BUILDER OUTPUT
@@ -59,7 +60,7 @@ class CooPageBuilderShortcode_portfolio extends CooPageBuilderShortcode {
             
             $output .= "\n\t".'<div class="spb_portfolio_widget spb_content_element '.$width.$el_class.'">';
             $output .= "\n\t\t".'<div class="spb_wrapper portfolio-wrap">';
-            $output .= ($title != '' ) ? "\n\t\t\t".'<h3 class="spb-heading"><span>'.$title.'</span></h3>' : '';
+            $output .= ($title != '' ) ? "\n\t\t\t".'<h3 class="spb-heading mb0"><span>'.$title.'</span></h3><div class="spb_divider standard spb_content_element col-sm-12"><span class="short-line"></span></div>' : '';
             if ($filter_output != "") {
             $output .= "\n\t\t\t".$filter_output;
             }
@@ -127,6 +128,13 @@ SPBMap::map( 'portfolio', array(
             "param_name" => "show_excerpt",
             "value" => array(__('No', "coo-page-builder") => "no", __('Yes', "coo-page-builder") => "yes"),
             "description" => __("Show the item excerpt text. (Standard/Masonry only)", "coo-page-builder")
+        ),
+        array(
+            "type" => "dropdown",
+            "heading" => __("Show It Love", "coo-page-builder"),
+            "param_name" => "show_it_love",
+            "value" => array(__('No', "coo-page-builder") => "no", __('Yes', "coo-page-builder") => "yes"),
+            "description" => __("Show the It Love.", "coo-page-builder")
         ),
         array(
             "type" => "dropdown",

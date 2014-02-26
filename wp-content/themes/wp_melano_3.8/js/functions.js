@@ -48,7 +48,7 @@
 				body.on('mousedown', '.caroufredsel_wrapper', function() {
 					jQuery(this).addClass('isSwiping');
 				});
-				body.on('mouseup', '.caroufredsel_wrapper', function() {
+				body.on('mouseup', '.f_wrapper', function() {
 					jQuery(this).removeClass('isSwiping');
 				});
 			}
@@ -1103,21 +1103,7 @@
 					}
 				}
 			});
-			jQuery('.content-slider').each(function() {
-				var slider = jQuery(this),
-					autoplay = ((slider.attr('data-autoplay') === "yes") ? true : false);
-				
-				slider.flexslider({
-					animation: "fade",              //String: Select your animation type, "fade" or "slide"
-					slideshow: autoplay,	//Boolean: Animate slider automatically
-					slideshowSpeed: 6000,           //Integer: Set the speed of the slideshow cycling, in milliseconds
-					animationDuration: 1000,			//Integer: Set the speed of animations, in milliseconds
-					smoothHeight: true,         
-					directionNav: true,             //Boolean: Create navigation for previous/next navigation? (true/false)
-					controlNav: false,               //Boolean: Create navigation for paging control of each clide? Note: Leave true for manualControls usage
-					start: function() {}
-				});
-			});
+
 						
 			// LOAD THE LOVE-IT CHARTS
 			jQuery('#coo-slider li').each( function() {
@@ -2445,5 +2431,9 @@
 	
 	jQuery(document).ready(onReady.init);
 	jQuery(window).load(onLoad.init);
+    jQuery(document).ready(function(){
+        var iCon = '<i class="fa-circle-o"></i>';
+        jQuery(".flex-control-paging li a").empty().append(iCon);
+    });
 
 })(jQuery);

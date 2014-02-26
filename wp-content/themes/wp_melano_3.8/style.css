@@ -1384,23 +1384,13 @@ html.no-js .ct-animation, .mobile-browser .ct-animation, .apple-mobile-browser .
 .flex-control-nav li {
 	float: left;
 	display: inline-block;
-	margin-right: 5px;
+	margin-right: 12px;
 	margin-bottom: 0;
 }
 .flex-control-nav li a {
-	text-indent: 100%;
-	white-space: nowrap;
-	overflow: hidden;
-	background: #fff;
-	width: 10px;
-	height: 10px;
-	display: block;
-	webkit-border-radius: 5px;
-	-moz-border-radius: 5px;
-	border-radius: 5px;
-	opacity: 0.5;
-	-moz-opacity: 0.5;
-	filter:alpha(opacity=50);
+    color: #A6A4A4;
+    display: block;
+    white-space: nowrap;
 }
 .flex-control-nav li a:hover {
 	cursor: pointer;
@@ -2301,6 +2291,7 @@ ul.mobile-language-select {
     margin-left: 20px;
     background-color: transparent;
 }
+#megaMenu ul.sub-menu .sub-menu-2
 .header-3 #megaMenu ul.megaMenu,
 .header-4 #megaMenu ul.megaMenu,
 .header-5 #megaMenu ul.megaMenu,
@@ -5625,7 +5616,7 @@ ul.portfolio-items {
 	margin-bottom: 0;
 }
 .portfolio-item figure {
-	margin-bottom: 25px;
+	margin-bottom: 17px;
 }
 .portfolio-item.masonry-item figure, .portfolio-item.gallery-item figure {
 	margin-bottom: 0;
@@ -5657,10 +5648,13 @@ ul.portfolio-items {
 	box-shadow: 0 1px 2px rgba(0,0,0,.1);
 }
 .portfolio-item h3.portfolio-item-title {
-	font-weight: normal;
-	margin-bottom: 5px;
-	text-align: left;
-	margin-top: 0;
+    font-size: 115%;
+    font-weight: 600;
+    margin-bottom: 5px;
+    margin-top: 0;
+    text-align: center;
+    text-transform: uppercase;
+}
 }
 .portfolio-item h1.portfolio-item-title {
 	font-weight: normal;
@@ -8726,7 +8720,7 @@ ul.testimonials {
 }
 .testimonials-slider .testimonial-text {
 	padding: 0 15%;
-	margin-bottom: 15px;
+	margin-bottom: 5px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
@@ -8738,7 +8732,7 @@ ul.testimonials {
 }
 .testimonials-slider .flex-control-nav {
 	position: absolute;
-	bottom: 0;
+	bottom: -30px;
 	left: 0;
 	margin: 0;
 	padding: 0;
@@ -8749,6 +8743,10 @@ ul.testimonials {
 }
 .testimonials-slider .flex-control-nav li {
 	float: none;
+}
+.testimonial cite {
+    font-size: 16px;
+    font-weight: 600;
 }
 
 /* --------------------------------------------

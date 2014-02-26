@@ -15,7 +15,7 @@
 	/* PORTFOLIO ITEMS
 	================================================== */
 	if (!function_exists('ct_portfolio_items')) {
-		function ct_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars) {
+		function ct_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $show_it_love, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars) {
 			
 			/* OUTPUT VARIABLE
 			================================================== */ 
@@ -222,7 +222,7 @@
 				================================================== */
 				if ($thumb_type != "none") {
 					
-					if ($display_type == "gallery" || $display_type == "masonry-gallery") {
+                        if ($display_type == "gallery" || $display_type == "masonry-gallery") {
 					$portfolio_items_output .= '<figure class="animated-overlay">'. "\n";
 					} else {
 					$portfolio_items_output .= '<figure class="animated-overlay overlay-alt">'. "\n";				
@@ -286,12 +286,14 @@
 				if ($display_type != "gallery" && $display_type != "masonry-gallery") {
 					
 					$portfolio_items_output .= '<div class="portfolio-item-details">'. "\n";
-					
+
+                    if($show_it_love == "yes"){
 					$portfolio_items_output .= '<div class="comments-likes">';
 					if (function_exists( 'lip_love_it_link' )) {
 						$portfolio_items_output .= lip_love_it_link(get_the_ID(), '<i class="ss-heart"></i>', '<i class="ss-heart"></i>', false);
 					}
 					$portfolio_items_output .= '</div>';
+                    }
 					
 					
 					if ($show_title == "yes") {

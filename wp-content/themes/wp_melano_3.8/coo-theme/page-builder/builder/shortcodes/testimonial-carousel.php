@@ -15,7 +15,8 @@ class CooPageBuilderShortcode_testimonial_carousel extends CooPageBuilderShortco
         	'page_link'	=> '',
             'el_class' => '',
             'el_position' => '',
-            'width' => '1/2'
+            'width' => '1/2',
+
         ), $atts));
 
         $output = '';
@@ -144,7 +145,9 @@ class CooPageBuilderShortcode_testimonial_carousel extends CooPageBuilderShortco
        	}
        	
        	$items .= '</div>';
-       	
+
+
+
    		if ($page_link == "yes") {
 	        $options = get_option('ct_coo_options');
 	        $testimonials_page = __($options['testimonial_page'], 'cootheme');
@@ -227,7 +230,8 @@ SPBMap::map( 'testimonial_carousel', array(
             "param_name" => "el_class",
             "value" => "",
             "description" => __("If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file.", "coo-page-builder")
-        )
+        ),
+
     )
 ) );
 

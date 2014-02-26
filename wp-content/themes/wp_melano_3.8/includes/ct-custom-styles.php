@@ -875,6 +875,7 @@
 			echo '.ct-icon-box-animated .back {background: '.$accent_color.'; border-color: '.$accent_color.';}';
 			echo '.ct-icon-box-animated .back {background: '.$accent_color.'; border-color: '.$accent_color.';}';
 			echo '.recent-post:hover .icon-post-type {background: '.$accent_color.';}';
+			echo '.testimonial cite, .flex-control-nav li a:hover, .flex-control-nav li a.flex-active {color: '.$accent_color.';}';
 			echo '.ct-icon-box-animated .back, .ct-icon-box-animated .back h3 {color: '.$accent_alt_color.'!important;}';
 			echo 'span.dropcap3 {background: #000;color: #fff;}';
 			echo 'span.dropcap4 {color: #fff;}';
